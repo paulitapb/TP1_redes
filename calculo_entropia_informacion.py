@@ -1,12 +1,14 @@
 from scapy.all import *
 
 #"wifiUbaLabo3/red_wifi_UBA_Labo3.pcapng" 
+#"BAWifi/PaquetesBAWifi.pcapng"
 pcap_path = input("enter file to sniff:")
 ouput_file = open(pcap_path.split('/')[0] +"/fuente_ent_info_" + pcap_path.split('/')[1].split('.')[0] + ".txt", "w")
 
 pcap_file = rdpcap(pcap_path)
 
 S1 = {}
+
 
 def calcularEntropia(simbolos, N):
     suma = 0
@@ -26,7 +28,7 @@ def mostrar_fuente(S):
     global cantidadTramas
     N = sum(S.values())
     simbolos = sorted(S.items(), key=lambda x: -x[1])
-    print("Entropia: %f \n"% calcularEntropia(simbolos, N))
+    #print("Entropia: %f \n"% calcularEntropia(simbolos, N))
     ouput_file.write("Entropia: %f \n"% calcularEntropia(simbolos, N))
 
     
@@ -41,18 +43,18 @@ def callback(pkt):
     mostrar_fuente(S1)
 
 #Paquetes que no tienen otro protocolo de capa 2
-def callback2(pkt):     
-    if pkt.haslayer(CookedLinux):         
-        dire = pkt[CookedLinux].pkttype
+def callback2(pkt):    
+    if pkt.haslayer(CookedLinux):        
+        dire = "UNICAST" if (pkt[CookedLinux].pkttype == 0 or pkt[CookedLinux].pkttype == 3 or pkt[CookedLinux].pkttype == 4) else ("MULTICAST" if (pkt[CookedLinux].pkttype == 2) else "BROADCAST" )
         proto = pkt[CookedLinux].proto        
         s_i = (dire, proto) # Aca se define el simbolo de la fuente         
         if s_i not in S1:             
             S1[s_i] = 0.0         
             S1[s_i] += 1.0     
-            mostrar_fuente(S1)
+    mostrar_fuente(S1)
 
 def main():
-    sniff(offline=pcap_file,prn=callback)
+    sniff(offline=pcap_file,prn=callback2)
 
 if __name__ == "__main__":
     main()
