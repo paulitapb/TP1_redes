@@ -1,0 +1,5 @@
+('UNICAST', 2048),0.70729 Informacion del evento: 0.49963 
+('UNICAST', 34525),0.14229 Informacion del evento: 2.81310 
+('BROADCAST', 2054),0.10043 Informacion del evento: 3.31568 
+('BROADCAST', 2048),0.03851 Informacion del evento: 4.69862 
+('UNICAST', 2054),0.01148 Informacion del evento: 6.44464 
