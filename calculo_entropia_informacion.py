@@ -3,7 +3,7 @@ from scapy.all import *
 #"wifiUbaLabo3/red_wifi_UBA_Labo3.pcapng" 
 pcap_path = input("enter file to sniff:")
 ouput_file = open(pcap_path.split('/')[0] +"/fuente_ent_info_" + pcap_path.split('/')[1].split('.')[0] + ".txt", "w")
-
+print(pcap_path.split('/')[0] +"/fuente_ent_info_" + pcap_path.split('/')[1].split('.')[0] + ".txt")
 pcap_file = rdpcap(pcap_path)
 
 S1 = {}
@@ -15,10 +15,10 @@ def calcularEntropia(simbolos, N):
         prob = k/N
         informacion_evento = -math.log(prob, 2)
         suma += prob * informacion_evento
-        print("%s : %.5f" % (d,k/N)) #mostrar simb + proba
+        #print("%s : %.5f" % (d,k/N)) #mostrar simb + proba
         ouput_file.write("%s,%.5f " % (d,k/N))
         
-        print("%.5f \n" % informacion_evento)
+        #print("%.5f \n" % informacion_evento)
         ouput_file.write("Informacion del evento: %.5f \n" % informacion_evento)
     return suma
 

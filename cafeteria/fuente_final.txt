@@ -1,0 +1,6 @@
+Entropia: 0.866569
+('UNICAST', 34525),0.78301 Informacion del evento: 0.35290
+('UNICAST', 2048),0.19678 Informacion del evento: 2.34537
+('BROADCAST', 2048),0.01724 Informacion del evento: 5.85777
+('BROADCAST', 2054),0.00193 Informacion del evento: 9.01569
+('UNICAST', 2054),0.00104 Informacion del evento: 9.91185

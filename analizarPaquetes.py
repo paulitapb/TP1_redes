@@ -8,13 +8,13 @@ from scapy.all import *
 # ARP in packet te dice los protocolos presentes
 
 def main():
-    pcap_path = "red_wifi_UBA_Labo3.pcapng"
-    paq_path = "wifiUbaLabo3/IP.txt"
+    pcap_path = "cafeteria/v4.pcapng"
+    paq_path = "cafeteria/ARPS.txt"
 
-    paq_file = open(paq_path, "w")
+    paq_file = open(paq_path, "w", encoding="utf-8")
     for packet in PcapReader(pcap_path):
-        if IP in packet:
-            paq_file.write(str(packet[IP].show) + "\n")
+        if ARP in packet:
+            paq_file.write(str(packet[ARP].show) + "\n")
 
 if __name__ == "__main__":
     main()
