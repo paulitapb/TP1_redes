@@ -1,0 +1,6 @@
+('UNICAST', 2048),0.16667 Informacion del evento: 2.58496 
+('BROADCAST', 2048),0.16667 Informacion del evento: 2.58496 
+('BROADCAST', 34525),0.16667 Informacion del evento: 2.58496 
+('BROADCAST', 2054),0.16667 Informacion del evento: 2.58496 
+('UNICAST', 2054),0.16667 Informacion del evento: 2.58496 
+('BROADCAST', 4),0.16667 Informacion del evento: 2.58496
