@@ -1,9 +1,9 @@
 from scapy.all import *
 
-#"red_wifi_UBA_Labo3.pcapng" 
+#"wifiUbaLabo3/red_wifi_UBA_Labo3.pcapng" 
 pcap_path = input("enter file to sniff:")
-ouput_file = open("fuente_ent_info" + pcap_path.split('.')[0] + ".txt", "w")
-    
+ouput_file = open(pcap_path.split('/')[0] +"/fuente_ent_info_" + pcap_path.split('/')[1].split('.')[0] + ".txt", "w")
+
 pcap_file = rdpcap(pcap_path)
 
 S1 = {}
