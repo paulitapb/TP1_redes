@@ -8,8 +8,8 @@ from scapy.all import *
 # ARP in packet te dice los protocolos presentes
 
 def main():
-    pcap_path = "Lucy_Wifi_Casa/LucyCasa.pcapng"
-    paq_path = "Lucy_Wifi_Casa/fuente_ent_info_LucyCasa.txt"
+    pcap_path = "red_wifi_UBA_Labo3.pcapng"
+    paq_path = "wifiUbaLabo3/IP.txt"
 
     paq_file = open(paq_path, "w")
     for packet in PcapReader(pcap_path):
