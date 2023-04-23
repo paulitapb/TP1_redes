@@ -1,6 +1,6 @@
-('UNICAST', 2048),0.16667 Informacion del evento: 2.58496 
-('BROADCAST', 2048),0.16667 Informacion del evento: 2.58496 
-('BROADCAST', 34525),0.16667 Informacion del evento: 2.58496 
-('BROADCAST', 2054),0.16667 Informacion del evento: 2.58496 
-('UNICAST', 2054),0.16667 Informacion del evento: 2.58496 
-('BROADCAST', 4),0.16667 Informacion del evento: 2.58496
+('UNICAST', 2048),0.60836 Informacion del evento: 0.71700 
+('BROADCAST', 2048),0.38914 Informacion del evento: 1.36163 
+('BROADCAST', 2054),0.00151 Informacion del evento: 9.36755 
+('BROADCAST', 34525),0.00090 Informacion del evento: 10.11298 
+('BROADCAST', 4),0.00005 Informacion del evento: 14.20044 
+('UNICAST', 2054),0.00003 Informacion del evento: 15.20044 

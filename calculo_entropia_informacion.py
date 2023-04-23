@@ -45,12 +45,12 @@ def callback(pkt):
 #Paquetes que no tienen otro protocolo de capa 2
 def callback2(pkt):    
     if pkt.haslayer(CookedLinux):        
-        dire = "UNICAST" if (pkt[CookedLinux].pkttype == 0 or pkt[CookedLinux].pkttype == 3 or pkt[CookedLinux].pkttype == 4) else ("MULTICAST" if (pkt[CookedLinux].pkttype == 2) else "BROADCAST" )
+        dire = "UNICAST" if (pkt[CookedLinux].pkttype == 0 or pkt[CookedLinux].pkttype == 3) else ("MULTICAST" if (pkt[CookedLinux].pkttype == 2) else "BROADCAST" )
         proto = pkt[CookedLinux].proto        
         s_i = (dire, proto) # Aca se define el simbolo de la fuente         
         if s_i not in S1:             
             S1[s_i] = 0.0         
-            S1[s_i] += 1.0     
+        S1[s_i] += 1.0     
     mostrar_fuente(S1)
 
 def main():
