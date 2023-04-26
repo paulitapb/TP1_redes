@@ -6,7 +6,7 @@ ouput_file = open(pcap_path.split('/')[0] +"/fuente_ent_info_" + pcap_path.split
 
 pcap_file = rdpcap(pcap_path)
 
-S1 = {}
+S2 = {}
 
 def calcularEntropia(simbolos, N):
     suma = 0
@@ -37,12 +37,14 @@ def callback(pkt):
         proto = pkt[Ether].type # El campo type del frame tiene el protocolo
 
         if proto == 2054:
-            s_i = (dire, pkt[ARP].psrc) # Aca se define el simbolo de la fuente
+            pkt[ARP].show()
+            s_i = (dire, pkt[ARP].psrc, pkt[ARP].op) # Aca se define el simbolo de la fuente
+            
 
-            if s_i not in S1:
-                S1[s_i] = 0.0
-            S1[s_i] += 1.0
-            mostrar_fuente(S1) 
+            if s_i not in S2:
+                S2[s_i] = 0.0
+            S2[s_i] += 1.0
+            mostrar_fuente(S2) 
 
 #
 def main():
