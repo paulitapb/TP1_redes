@@ -37,7 +37,7 @@ def callback(pkt):
         proto = pkt[Ether].type # El campo type del frame tiene el protocolo
 
         if proto == 2054:
-            s_i = (dire, proto, pkt[ARP].psrc) # Aca se define el simbolo de la fuente
+            s_i = (dire, pkt[ARP].psrc) # Aca se define el simbolo de la fuente
 
             if s_i not in S1:
                 S1[s_i] = 0.0
