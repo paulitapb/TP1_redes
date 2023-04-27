@@ -2,7 +2,7 @@ from scapy.all import *
 
 pcap_path = "wifiUbaLabo3/red_wifi_UBA_Labo3.pcapng" 
 #pcap_path = input("enter file to sniff:")
-ouput_file = open(pcap_path.split('/')[0] +"/fuente_ent_info_" + pcap_path.split('/')[1].split('.')[0] + ".txt", "w")
+ouput_file = open(pcap_path.split('/')[0] +"/fuenteEj2_sim2" + pcap_path.split('/')[1].split('.')[0] + ".txt", "w")
 
 pcap_file = rdpcap(pcap_path)
 
@@ -18,7 +18,7 @@ def calcularEntropia(simbolos, N):
         print("%s : %.5f" % (d,k/N)) #mostrar simb + proba
         ouput_file.write("%s,%.5f " % (d,k/N))
         
-        print("%.5f \n" % informacion_evento)
+        print("%.5f" % informacion_evento)
         ouput_file.write("Informacion del evento: %.5f \n" % informacion_evento)
     return suma
 
@@ -26,8 +26,11 @@ def mostrar_fuente(S):
     global cantidadTramas
     N = sum(S.values())
     simbolos = sorted(S.items(), key=lambda x: -x[1])
-    print("Entropia: %f \n"% calcularEntropia(simbolos, N))
-    ouput_file.write("Entropia: %f \n"% calcularEntropia(simbolos, N))
+    
+    entropia = calcularEntropia(simbolos, N)
+    ouput_file.write("Entropia: %f \n"% entropia)
+    print("Entropia: %f \n"% entropia)
+    print("--------------------------")
 
     
 def callback(pkt):
@@ -37,10 +40,8 @@ def callback(pkt):
         proto = pkt[Ether].type # El campo type del frame tiene el protocolo
 
         if proto == 2054:
-            pkt[ARP].show()
-            s_i = (dire, pkt[ARP].psrc, pkt[ARP].op) # Aca se define el simbolo de la fuente
+            s_i = (pkt[ARP].psrc, pkt[ARP].op) # Aca se define el simbolo de la fuente
             
-
             if s_i not in S2:
                 S2[s_i] = 0.0
             S2[s_i] += 1.0
