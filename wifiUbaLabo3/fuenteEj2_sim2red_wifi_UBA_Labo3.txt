@@ -1,0 +1,426 @@
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+10.94.89.109,0.96774 Informacion del evento: 0.04731 
+10.94.64.1,0.03226 Informacion del evento: 4.95420 
+Entropia: 0.205593 
+10.94.89.109,0.96875 Informacion del evento: 0.04580 
+10.94.64.1,0.03125 Informacion del evento: 5.00000 
+Entropia: 0.200622 
+10.94.89.109,0.96970 Informacion del evento: 0.04439 
+10.94.64.1,0.03030 Informacion del evento: 5.04439 
+Entropia: 0.195909 
+10.94.89.109,0.97059 Informacion del evento: 0.04307 
+10.94.64.1,0.02941 Informacion del evento: 5.08746 
+Entropia: 0.191433 
+10.94.89.109,0.97143 Informacion del evento: 0.04182 
+10.94.64.1,0.02857 Informacion del evento: 5.12928 
+Entropia: 0.187176 
+10.94.89.109,0.97222 Informacion del evento: 0.04064 
+10.94.64.1,0.02778 Informacion del evento: 5.16993 
+Entropia: 0.183122 
+10.94.89.109,0.97297 Informacion del evento: 0.03953 
+10.94.64.1,0.02703 Informacion del evento: 5.20945 
+Entropia: 0.179256 
+10.94.89.109,0.97368 Informacion del evento: 0.03847 
+10.94.64.1,0.02632 Informacion del evento: 5.24793 
+Entropia: 0.175565 
+10.94.89.109,0.97436 Informacion del evento: 0.03747 
+10.94.64.1,0.02564 Informacion del evento: 5.28540 
+Entropia: 0.172037 
+10.94.89.109,0.97500 Informacion del evento: 0.03653 
+10.94.64.1,0.02500 Informacion del evento: 5.32193 
+Entropia: 0.168661 
+10.94.89.109,0.97561 Informacion del evento: 0.03562 
+10.94.64.1,0.02439 Informacion del evento: 5.35755 
+Entropia: 0.165427 
+10.94.89.109,0.97619 Informacion del evento: 0.03477 
+10.94.64.1,0.02381 Informacion del evento: 5.39232 
+Entropia: 0.162326 
+10.94.89.109,0.97674 Informacion del evento: 0.03395 
+10.94.64.1,0.02326 Informacion del evento: 5.42626 
+Entropia: 0.159350 
+10.94.89.109,0.97727 Informacion del evento: 0.03317 
+10.94.64.1,0.02273 Informacion del evento: 5.45943 
+Entropia: 0.156491 
+10.94.89.109,0.97778 Informacion del evento: 0.03242 
+10.94.64.1,0.02222 Informacion del evento: 5.49185 
+Entropia: 0.153742 
+10.94.89.109,0.97826 Informacion del evento: 0.03171 
+10.94.64.1,0.02174 Informacion del evento: 5.52356 
+Entropia: 0.151097 
+10.94.89.109,0.97872 Informacion del evento: 0.03103 
+10.94.64.1,0.02128 Informacion del evento: 5.55459 
+Entropia: 0.148549 
+10.94.89.109,0.97917 Informacion del evento: 0.03037 
+10.94.64.1,0.02083 Informacion del evento: 5.58496 
+Entropia: 0.146094 
+10.94.89.109,0.97959 Informacion del evento: 0.02975 
+10.94.64.1,0.02041 Informacion del evento: 5.61471 
+Entropia: 0.143726 
+10.94.89.109,0.98000 Informacion del evento: 0.02915 
+10.94.64.1,0.02000 Informacion del evento: 5.64386 
+Entropia: 0.141441 
+10.94.89.109,0.98039 Informacion del evento: 0.02857 
+10.94.64.1,0.01961 Informacion del evento: 5.67243 
+Entropia: 0.139233 
+10.94.89.109,0.96154 Informacion del evento: 0.05658 
+10.94.64.1,0.03846 Informacion del evento: 4.70044 
+Entropia: 0.235193 
+10.94.89.109,0.96226 Informacion del evento: 0.05550 
+10.94.64.1,0.03774 Informacion del evento: 4.72792 
+Entropia: 0.231813 
+10.94.89.109,0.96296 Informacion del evento: 0.05445 
+10.94.64.1,0.03704 Informacion del evento: 4.75489 
+Entropia: 0.228538 
+10.94.89.109,0.96364 Informacion del evento: 0.05344 
+10.94.64.1,0.03636 Informacion del evento: 4.78136 
+Entropia: 0.225364 
+10.94.89.109,0.96429 Informacion del evento: 0.05247 
+10.94.64.1,0.03571 Informacion del evento: 4.80735 
+Entropia: 0.222285 
+10.94.89.109,0.96491 Informacion del evento: 0.05153 
+10.94.64.1,0.03509 Informacion del evento: 4.83289 
+Entropia: 0.219297 
+10.94.89.109,0.96552 Informacion del evento: 0.05063 
+10.94.64.1,0.03448 Informacion del evento: 4.85798 
+Entropia: 0.216397 
+10.94.89.109,0.96610 Informacion del evento: 0.04975 
+10.94.64.1,0.03390 Informacion del evento: 4.88264 
+Entropia: 0.213580 
+10.94.89.109,0.96667 Informacion del evento: 0.04891 
+10.94.64.1,0.03333 Informacion del evento: 4.90689 
+Entropia: 0.210842 
+10.94.89.109,0.96721 Informacion del evento: 0.04809 
+10.94.64.1,0.03279 Informacion del evento: 4.93074 
+Entropia: 0.208181 
+10.94.89.109,0.96774 Informacion del evento: 0.04731 
+10.94.64.1,0.03226 Informacion del evento: 4.95420 
+Entropia: 0.205593 
+10.94.89.109,0.96825 Informacion del evento: 0.04654 
+10.94.64.1,0.03175 Informacion del evento: 4.97728 
+Entropia: 0.203074 
+10.94.89.109,0.96875 Informacion del evento: 0.04580 
+10.94.64.1,0.03125 Informacion del evento: 5.00000 
+Entropia: 0.200622 
+10.94.89.109,0.96923 Informacion del evento: 0.04509 
+10.94.64.1,0.03077 Informacion del evento: 5.02237 
+Entropia: 0.198235 
+10.94.89.109,0.96970 Informacion del evento: 0.04439 
+10.94.64.1,0.03030 Informacion del evento: 5.04439 
+Entropia: 0.195909 
+10.94.89.109,0.97015 Informacion del evento: 0.04372 
+10.94.64.1,0.02985 Informacion del evento: 5.06609 
+Entropia: 0.193643 
+10.94.89.109,0.97059 Informacion del evento: 0.04307 
+10.94.64.1,0.02941 Informacion del evento: 5.08746 
+Entropia: 0.191433 
+10.94.89.109,0.97101 Informacion del evento: 0.04244 
+10.94.64.1,0.02899 Informacion del evento: 5.10852 
+Entropia: 0.189278 
+10.94.89.109,0.97143 Informacion del evento: 0.04182 
+10.94.64.1,0.02857 Informacion del evento: 5.12928 
+Entropia: 0.187176 
+10.94.89.109,0.97183 Informacion del evento: 0.04122 
+10.94.64.1,0.02817 Informacion del evento: 5.14975 
+Entropia: 0.185125 
+10.94.89.109,0.97222 Informacion del evento: 0.04064 
+10.94.64.1,0.02778 Informacion del evento: 5.16993 
+Entropia: 0.183122 
+10.94.89.109,0.97260 Informacion del evento: 0.04008 
+10.94.64.1,0.02740 Informacion del evento: 5.18982 
+Entropia: 0.181166 
+10.94.89.109,0.97297 Informacion del evento: 0.03953 
+10.94.64.1,0.02703 Informacion del evento: 5.20945 
+Entropia: 0.179256 
+10.94.89.109,0.97333 Informacion del evento: 0.03899 
+10.94.64.1,0.02667 Informacion del evento: 5.22882 
+Entropia: 0.177389 
+10.94.89.109,0.97368 Informacion del evento: 0.03847 
+10.94.64.1,0.02632 Informacion del evento: 5.24793 
+Entropia: 0.175565 
+10.94.89.109,0.97403 Informacion del evento: 0.03797 
+10.94.64.1,0.02597 Informacion del evento: 5.26679 
+Entropia: 0.173781 
+10.94.89.109,0.97436 Informacion del evento: 0.03747 
+10.94.64.1,0.02564 Informacion del evento: 5.28540 
+Entropia: 0.172037 
+10.94.89.109,0.97468 Informacion del evento: 0.03699 
+10.94.64.1,0.02532 Informacion del evento: 5.30378 
+Entropia: 0.170331 
+10.94.89.109,0.97500 Informacion del evento: 0.03653 
+10.94.64.1,0.02500 Informacion del evento: 5.32193 
+Entropia: 0.168661 
+10.94.89.109,0.97531 Informacion del evento: 0.03607 
+10.94.64.1,0.02469 Informacion del evento: 5.33985 
+Entropia: 0.167027 
+10.94.89.109,0.97561 Informacion del evento: 0.03562 
+10.94.64.1,0.02439 Informacion del evento: 5.35755 
+Entropia: 0.165427 
+10.94.89.109,0.97590 Informacion del evento: 0.03519 
+10.94.64.1,0.02410 Informacion del evento: 5.37504 
+Entropia: 0.163861 
+10.94.89.109,0.97619 Informacion del evento: 0.03477 
+10.94.64.1,0.02381 Informacion del evento: 5.39232 
+Entropia: 0.162326 
+10.94.89.109,0.97647 Informacion del evento: 0.03435 
+10.94.64.1,0.02353 Informacion del evento: 5.40939 
+Entropia: 0.160823 
+10.94.89.109,0.97674 Informacion del evento: 0.03395 
+10.94.64.1,0.02326 Informacion del evento: 5.42626 
+Entropia: 0.159350 
+10.94.89.109,0.97701 Informacion del evento: 0.03355 
+10.94.64.1,0.02299 Informacion del evento: 5.44294 
+Entropia: 0.157906 
+10.94.89.109,0.97727 Informacion del evento: 0.03317 
+10.94.64.1,0.02273 Informacion del evento: 5.45943 
+Entropia: 0.156491 
+10.94.89.109,0.97753 Informacion del evento: 0.03279 
+10.94.64.1,0.02247 Informacion del evento: 5.47573 
+Entropia: 0.155103 
+10.94.89.109,0.97778 Informacion del evento: 0.03242 
+10.94.64.1,0.02222 Informacion del evento: 5.49185 
+Entropia: 0.153742 
+10.94.89.109,0.97802 Informacion del evento: 0.03206 
+10.94.64.1,0.02198 Informacion del evento: 5.50779 
+Entropia: 0.152407 
+10.94.89.109,0.97826 Informacion del evento: 0.03171 
+10.94.64.1,0.02174 Informacion del evento: 5.52356 
+Entropia: 0.151097 
+10.94.89.109,0.97849 Informacion del evento: 0.03136 
+10.94.64.1,0.02151 Informacion del evento: 5.53916 
+Entropia: 0.149811 
+10.94.89.109,0.97872 Informacion del evento: 0.03103 
+10.94.64.1,0.02128 Informacion del evento: 5.55459 
+Entropia: 0.148549 
+10.94.89.109,0.96842 Informacion del evento: 0.04629 
+10.94.64.1,0.03158 Informacion del evento: 4.98489 
+Entropia: 0.202249 
+10.94.89.109,0.96875 Informacion del evento: 0.04580 
+10.94.64.1,0.03125 Informacion del evento: 5.00000 
+Entropia: 0.200622 
+10.94.89.109,0.96907 Informacion del evento: 0.04532 
+10.94.64.1,0.03093 Informacion del evento: 5.01495 
+Entropia: 0.199024 
+10.94.89.109,0.96939 Informacion del evento: 0.04485 
+10.94.64.1,0.03061 Informacion del evento: 5.02975 
+Entropia: 0.197453 
+10.94.89.109,0.96970 Informacion del evento: 0.04439 
+10.94.64.1,0.03030 Informacion del evento: 5.04439 
+Entropia: 0.195909 
+10.94.89.109,0.97000 Informacion del evento: 0.04394 
+10.94.64.1,0.03000 Informacion del evento: 5.05889 
+Entropia: 0.194392 
+10.94.89.109,0.97030 Informacion del evento: 0.04350 
+10.94.64.1,0.02970 Informacion del evento: 5.07325 
+Entropia: 0.192900 
+10.94.89.109,0.97059 Informacion del evento: 0.04307 
+10.94.64.1,0.02941 Informacion del evento: 5.08746 
+Entropia: 0.191433 
+10.94.89.109,0.97087 Informacion del evento: 0.04264 
+10.94.64.1,0.02913 Informacion del evento: 5.10154 
+Entropia: 0.189991 
+10.94.89.109,0.97115 Informacion del evento: 0.04223 
+10.94.64.1,0.02885 Informacion del evento: 5.11548 
+Entropia: 0.188572 
+10.94.89.109,0.97143 Informacion del evento: 0.04182 
+10.94.64.1,0.02857 Informacion del evento: 5.12928 
+Entropia: 0.187176 
+10.94.89.109,0.97170 Informacion del evento: 0.04142 
+10.94.64.1,0.02830 Informacion del evento: 5.14296 
+Entropia: 0.185803 
+10.94.89.109,0.97196 Informacion del evento: 0.04103 
+10.94.64.1,0.02804 Informacion del evento: 5.15650 
+Entropia: 0.184452 
+10.94.89.109,0.97222 Informacion del evento: 0.04064 
+10.94.64.1,0.02778 Informacion del evento: 5.16993 
+Entropia: 0.183122 
+10.94.89.109,0.97248 Informacion del evento: 0.04026 
+10.94.64.1,0.02752 Informacion del evento: 5.18322 
+Entropia: 0.181813 
+10.94.89.109,0.97273 Informacion del evento: 0.03989 
+10.94.64.1,0.02727 Informacion del evento: 5.19640 
+Entropia: 0.180525 
+10.94.89.109,0.97297 Informacion del evento: 0.03953 
+10.94.64.1,0.02703 Informacion del evento: 5.20945 
+Entropia: 0.179256 
+10.94.89.109,0.97321 Informacion del evento: 0.03917 
+10.94.64.1,0.02679 Informacion del evento: 5.22239 
+Entropia: 0.178007 
+10.94.89.109,0.97345 Informacion del evento: 0.03882 
+10.94.64.1,0.02655 Informacion del evento: 5.23522 
+Entropia: 0.176777 
+10.94.89.109,0.97368 Informacion del evento: 0.03847 
+10.94.64.1,0.02632 Informacion del evento: 5.24793 
+Entropia: 0.175565 
+10.94.89.109,0.96522 Informacion del evento: 0.05107 
+10.94.64.1,0.03478 Informacion del evento: 4.84549 
+Entropia: 0.217836 
+10.94.89.109,0.96552 Informacion del evento: 0.05063 
+10.94.64.1,0.03448 Informacion del evento: 4.85798 
+Entropia: 0.216397 
+10.94.89.109,0.96581 Informacion del evento: 0.05019 
+10.94.64.1,0.03419 Informacion del evento: 4.87036 
+Entropia: 0.214978 
+10.94.89.109,0.96610 Informacion del evento: 0.04975 
+10.94.64.1,0.03390 Informacion del evento: 4.88264 
+Entropia: 0.213580 
+10.94.89.109,0.96639 Informacion del evento: 0.04933 
+10.94.64.1,0.03361 Informacion del evento: 4.89482 
+Entropia: 0.212201 
+10.94.89.109,0.96667 Informacion del evento: 0.04891 
+10.94.64.1,0.03333 Informacion del evento: 4.90689 
+Entropia: 0.210842 
+10.94.89.109,0.96694 Informacion del evento: 0.04850 
+10.94.64.1,0.03306 Informacion del evento: 4.91886 
+Entropia: 0.209502 
+10.94.89.109,0.96721 Informacion del evento: 0.04809 
+10.94.64.1,0.03279 Informacion del evento: 4.93074 
+Entropia: 0.208181 
+10.94.89.109,0.95935 Informacion del evento: 0.05987 
+10.94.64.1,0.04065 Informacion del evento: 4.62059 
+Entropia: 0.245266 
+10.94.89.109,0.95968 Informacion del evento: 0.05938 
+10.94.64.1,0.04032 Informacion del evento: 4.63227 
+Entropia: 0.243769 
+10.94.89.109,0.96000 Informacion del evento: 0.05889 
+10.94.64.1,0.04000 Informacion del evento: 4.64386 
+Entropia: 0.242292 
+10.94.89.109,0.96032 Informacion del evento: 0.05842 
+10.94.64.1,0.03968 Informacion del evento: 4.65535 
+Entropia: 0.240835 
+10.94.89.109,0.96063 Informacion del evento: 0.05795 
+10.94.64.1,0.03937 Informacion del evento: 4.66676 
+Entropia: 0.239397 
+10.94.89.109,0.95312 Informacion del evento: 0.06926 
+10.94.64.1,0.04688 Informacion del evento: 4.41504 
+Entropia: 0.272971 
+10.94.89.109,0.95349 Informacion del evento: 0.06871 
+10.94.64.1,0.04651 Informacion del evento: 4.42626 
+Entropia: 0.271390 
+10.94.89.109,0.95385 Informacion del evento: 0.06817 
+10.94.64.1,0.04615 Informacion del evento: 4.43741 
+Entropia: 0.269828 
+10.94.89.109,0.95420 Informacion del evento: 0.06764 
+10.94.64.1,0.04580 Informacion del evento: 4.44846 
+Entropia: 0.268287 
+10.94.89.109,0.95455 Informacion del evento: 0.06711 
+10.94.64.1,0.04545 Informacion del evento: 4.45943 
+Entropia: 0.266765 
+10.94.89.109,0.95489 Informacion del evento: 0.06660 
+10.94.64.1,0.04511 Informacion del evento: 4.47032 
+Entropia: 0.265262 
+10.94.89.109,0.95522 Informacion del evento: 0.06609 
+10.94.64.1,0.04478 Informacion del evento: 4.48113 
+Entropia: 0.263777 
+10.94.89.109,0.95556 Informacion del evento: 0.06559 
+10.94.64.1,0.04444 Informacion del evento: 4.49185 
+Entropia: 0.262311 
+10.94.89.109,0.95588 Informacion del evento: 0.06510 
+10.94.64.1,0.04412 Informacion del evento: 4.50250 
+Entropia: 0.260863 
+10.94.89.109,0.95620 Informacion del evento: 0.06461 
+10.94.64.1,0.04380 Informacion del evento: 4.51307 
+Entropia: 0.259432 
+10.94.89.109,0.95652 Informacion del evento: 0.06413 
+10.94.64.1,0.04348 Informacion del evento: 4.52356 
+Entropia: 0.258019 
+10.94.89.109,0.95683 Informacion del evento: 0.06366 
+10.94.64.1,0.04317 Informacion del evento: 4.53398 
+Entropia: 0.256622 
+10.94.89.109,0.95714 Informacion del evento: 0.06319 
+10.94.64.1,0.04286 Informacion del evento: 4.54432 
+Entropia: 0.255242 
+10.94.89.109,0.95745 Informacion del evento: 0.06274 
+10.94.64.1,0.04255 Informacion del evento: 4.55459 
+Entropia: 0.253878 
+10.94.89.109,0.95775 Informacion del evento: 0.06228 
+10.94.64.1,0.04225 Informacion del evento: 4.56478 
+Entropia: 0.252531 
+10.94.89.109,0.95804 Informacion del evento: 0.06184 
+10.94.64.1,0.04196 Informacion del evento: 4.57491 
+Entropia: 0.251199 
+10.94.89.109,0.95833 Informacion del evento: 0.06140 
+10.94.64.1,0.04167 Informacion del evento: 4.58496 
+Entropia: 0.249882 
+10.94.89.109,0.95862 Informacion del evento: 0.06097 
+10.94.64.1,0.04138 Informacion del evento: 4.59495 
+Entropia: 0.248581 
+10.94.89.109,0.95890 Informacion del evento: 0.06054 
+10.94.64.1,0.04110 Informacion del evento: 4.60486 
+Entropia: 0.247294 
+10.94.89.109,0.95918 Informacion del evento: 0.06012 
+10.94.64.1,0.04082 Informacion del evento: 4.61471 
+Entropia: 0.246023 
+10.94.89.109,0.95946 Informacion del evento: 0.05971 
+10.94.64.1,0.04054 Informacion del evento: 4.62449 
+Entropia: 0.244765 
+10.94.89.109,0.95973 Informacion del evento: 0.05930 
+10.94.64.1,0.04027 Informacion del evento: 4.63421 
+Entropia: 0.243522 
+10.94.89.109,0.96000 Informacion del evento: 0.05889 
+10.94.64.1,0.04000 Informacion del evento: 4.64386 
+Entropia: 0.242292 
+10.94.89.109,0.96026 Informacion del evento: 0.05850 
+10.94.64.1,0.03974 Informacion del evento: 4.65344 
+Entropia: 0.241076 
+10.94.89.109,0.96053 Informacion del evento: 0.05810 
+10.94.64.1,0.03947 Informacion del evento: 4.66297 
+Entropia: 0.239874 

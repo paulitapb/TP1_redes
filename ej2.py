@@ -2,7 +2,7 @@ from scapy.all import *
 
 pcap_path = "wifiUbaLabo3/red_wifi_UBA_Labo3.pcapng" 
 #pcap_path = input("enter file to sniff:")
-ouput_file = open(pcap_path.split('/')[0] +"/fuenteEj2_sim2" + pcap_path.split('/')[1].split('.')[0] + ".txt", "w")
+ouput_file = open(pcap_path.split('/')[0] + "fuenteEj2_sim2" + pcap_path.split('/')[1].split('.')[0] + ".txt", "w")
 
 pcap_file = rdpcap(pcap_path)
 
@@ -11,15 +11,22 @@ S2 = {}
 def calcularEntropia(simbolos, N):
     suma = 0
     prob = 0
+    final_entropy = {}
     for d,k in simbolos:
         prob = k/N
         informacion_evento = -math.log(prob, 2)
-        suma += prob * informacion_evento
-        print("%s : %.5f" % (d,k/N)) #mostrar simb + proba
-        ouput_file.write("%s,%.5f " % (d,k/N))
+        comp_entropia = prob * informacion_evento
+        suma += comp_entropia
         
-        print("%.5f" % informacion_evento)
-        ouput_file.write("Informacion del evento: %.5f \n" % informacion_evento)
+        print("Simbolo: %s, \n Comp_Entropia :%.5f " % (d,comp_entropia)) #mostrar simb + comp
+        final_entropy[d] = comp_entropia
+        
+        #ouput_file.write("Simbolo: %s, \n Comp_Entropia :%.5f " % (d,comp_entropia))
+        #ouput_file.write("%s,%.5f " % (d,k/N))
+        
+        #print(" Informacion del evento: %.5f \n" % informacion_evento)
+        #ouput_file.write(" Informacion del evento: %.5f \n" % informacion_evento)
+    ouput_file.write(str(list(final_entropy.items())) + "\n")
     return suma
 
 def mostrar_fuente(S):
@@ -28,7 +35,7 @@ def mostrar_fuente(S):
     simbolos = sorted(S.items(), key=lambda x: -x[1])
     
     entropia = calcularEntropia(simbolos, N)
-    ouput_file.write("Entropia: %f \n"% entropia)
+    #ouput_file.write("Entropia: %f \n"% entropia)
     print("Entropia: %f \n"% entropia)
     print("--------------------------")
 
@@ -39,8 +46,8 @@ def callback(pkt):
         dire = "BROADCAST" if pkt[Ether].dst=="ff:ff:ff:ff:ff:ff" else "UNICAST"
         proto = pkt[Ether].type # El campo type del frame tiene el protocolo
 
-        if proto == 2054:
-            s_i = (pkt[ARP].psrc, pkt[ARP].op) # Aca se define el simbolo de la fuente
+        if proto == 2054 and pkt[ARP].op == 2:
+            s_i = (pkt[ARP].psrc) # Aca se define el simbolo de la fuente
             
             if s_i not in S2:
                 S2[s_i] = 0.0

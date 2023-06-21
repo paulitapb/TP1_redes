@@ -40,17 +40,6 @@ def callback(pkt):
         S1[s_i] += 1.0
     mostrar_fuente(S1)
 
-#Paquetes que no tienen otro protocolo de capa 2
-def callback2(pkt):     
-    if pkt.haslayer(CookedLinux):         
-        dire = pkt[CookedLinux].pkttype
-        proto = pkt[CookedLinux].proto        
-        s_i = (dire, proto) # Aca se define el simbolo de la fuente         
-        if s_i not in S1:             
-            S1[s_i] = 0.0         
-            S1[s_i] += 1.0     
-            mostrar_fuente(S1)
-
 def main():
     sniff(offline=pcap_file,prn=callback)
 

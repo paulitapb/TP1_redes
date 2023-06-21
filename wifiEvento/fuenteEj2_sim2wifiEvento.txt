@@ -1,0 +1,696 @@
+('10.94.64.1', 1),1.00000 Informacion del evento: -0.00000 
+Entropia: 0.000000 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.66667 Informacion del evento: 0.58496 
+('10.94.89.109', 2),0.33333 Informacion del evento: 1.58496 
+Entropia: 0.918296 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.60000 Informacion del evento: 0.73697 
+('10.94.89.109', 2),0.40000 Informacion del evento: 1.32193 
+Entropia: 0.970951 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.57143 Informacion del evento: 0.80735 
+('10.94.89.109', 2),0.42857 Informacion del evento: 1.22239 
+Entropia: 0.985228 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.55556 Informacion del evento: 0.84800 
+('10.94.89.109', 2),0.44444 Informacion del evento: 1.16993 
+Entropia: 0.991076 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.54545 Informacion del evento: 0.87447 
+('10.94.89.109', 2),0.45455 Informacion del evento: 1.13750 
+Entropia: 0.994030 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.53846 Informacion del evento: 0.89308 
+('10.94.89.109', 2),0.46154 Informacion del evento: 1.11548 
+Entropia: 0.995727 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.53333 Informacion del evento: 0.90689 
+('10.94.89.109', 2),0.46667 Informacion del evento: 1.09954 
+Entropia: 0.996792 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.52941 Informacion del evento: 0.91754 
+('10.94.89.109', 2),0.47059 Informacion del evento: 1.08746 
+Entropia: 0.997503 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.52632 Informacion del evento: 0.92600 
+('10.94.89.109', 2),0.47368 Informacion del evento: 1.07800 
+Entropia: 0.998001 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.52381 Informacion del evento: 0.93289 
+('10.94.89.109', 2),0.47619 Informacion del evento: 1.07039 
+Entropia: 0.998364 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.52174 Informacion del evento: 0.93860 
+('10.94.89.109', 2),0.47826 Informacion del evento: 1.06413 
+Entropia: 0.998636 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.52000 Informacion del evento: 0.94342 
+('10.94.89.109', 2),0.48000 Informacion del evento: 1.05889 
+Entropia: 0.998846 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51852 Informacion del evento: 0.94753 
+('10.94.89.109', 2),0.48148 Informacion del evento: 1.05445 
+Entropia: 0.999010 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51724 Informacion del evento: 0.95109 
+('10.94.89.109', 2),0.48276 Informacion del evento: 1.05063 
+Entropia: 0.999142 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51613 Informacion del evento: 0.95420 
+('10.94.89.109', 2),0.48387 Informacion del evento: 1.04731 
+Entropia: 0.999249 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51515 Informacion del evento: 0.95693 
+('10.94.89.109', 2),0.48485 Informacion del evento: 1.04439 
+Entropia: 0.999338 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51429 Informacion del evento: 0.95936 
+('10.94.89.109', 2),0.48571 Informacion del evento: 1.04182 
+Entropia: 0.999411 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51351 Informacion del evento: 0.96153 
+('10.94.89.109', 2),0.48649 Informacion del evento: 1.03953 
+Entropia: 0.999473 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51282 Informacion del evento: 0.96347 
+('10.94.89.109', 2),0.48718 Informacion del evento: 1.03747 
+Entropia: 0.999526 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51220 Informacion del evento: 0.96523 
+('10.94.89.109', 2),0.48780 Informacion del evento: 1.03562 
+Entropia: 0.999571 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51163 Informacion del evento: 0.96683 
+('10.94.89.109', 2),0.48837 Informacion del evento: 1.03395 
+Entropia: 0.999610 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51111 Informacion del evento: 0.96829 
+('10.94.89.109', 2),0.48889 Informacion del evento: 1.03242 
+Entropia: 0.999644 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51064 Informacion del evento: 0.96963 
+('10.94.89.109', 2),0.48936 Informacion del evento: 1.03103 
+Entropia: 0.999673 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.51020 Informacion del evento: 0.97085 
+('10.94.89.109', 2),0.48980 Informacion del evento: 1.02975 
+Entropia: 0.999700 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50980 Informacion del evento: 0.97199 
+('10.94.89.109', 2),0.49020 Informacion del evento: 1.02857 
+Entropia: 0.999723 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50943 Informacion del evento: 0.97303 
+('10.94.89.109', 2),0.49057 Informacion del evento: 1.02748 
+Entropia: 0.999743 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50909 Informacion del evento: 0.97400 
+('10.94.89.109', 2),0.49091 Informacion del evento: 1.02647 
+Entropia: 0.999762 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50877 Informacion del evento: 0.97491 
+('10.94.89.109', 2),0.49123 Informacion del evento: 1.02554 
+Entropia: 0.999778 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50847 Informacion del evento: 0.97575 
+('10.94.89.109', 2),0.49153 Informacion del evento: 1.02466 
+Entropia: 0.999793 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50820 Informacion del evento: 0.97654 
+('10.94.89.109', 2),0.49180 Informacion del evento: 1.02385 
+Entropia: 0.999806 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50794 Informacion del evento: 0.97728 
+('10.94.89.109', 2),0.49206 Informacion del evento: 1.02308 
+Entropia: 0.999818 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50769 Informacion del evento: 0.97797 
+('10.94.89.109', 2),0.49231 Informacion del evento: 1.02237 
+Entropia: 0.999829 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50746 Informacion del evento: 0.97863 
+('10.94.89.109', 2),0.49254 Informacion del evento: 1.02170 
+Entropia: 0.999839 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50725 Informacion del evento: 0.97924 
+('10.94.89.109', 2),0.49275 Informacion del evento: 1.02106 
+Entropia: 0.999848 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50704 Informacion del evento: 0.97982 
+('10.94.89.109', 2),0.49296 Informacion del evento: 1.02046 
+Entropia: 0.999857 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50685 Informacion del evento: 0.98037 
+('10.94.89.109', 2),0.49315 Informacion del evento: 1.01990 
+Entropia: 0.999865 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50667 Informacion del evento: 0.98089 
+('10.94.89.109', 2),0.49333 Informacion del evento: 1.01937 
+Entropia: 0.999872 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50649 Informacion del evento: 0.98138 
+('10.94.89.109', 2),0.49351 Informacion del evento: 1.01886 
+Entropia: 0.999878 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50633 Informacion del evento: 0.98185 
+('10.94.89.109', 2),0.49367 Informacion del evento: 1.01838 
+Entropia: 0.999884 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50617 Informacion del evento: 0.98230 
+('10.94.89.109', 2),0.49383 Informacion del evento: 1.01792 
+Entropia: 0.999890 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50602 Informacion del evento: 0.98272 
+('10.94.89.109', 2),0.49398 Informacion del evento: 1.01749 
+Entropia: 0.999895 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50588 Informacion del evento: 0.98313 
+('10.94.89.109', 2),0.49412 Informacion del evento: 1.01707 
+Entropia: 0.999900 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50575 Informacion del evento: 0.98351 
+('10.94.89.109', 2),0.49425 Informacion del evento: 1.01668 
+Entropia: 0.999905 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50562 Informacion del evento: 0.98388 
+('10.94.89.109', 2),0.49438 Informacion del evento: 1.01630 
+Entropia: 0.999909 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50549 Informacion del evento: 0.98423 
+('10.94.89.109', 2),0.49451 Informacion del evento: 1.01594 
+Entropia: 0.999913 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50538 Informacion del evento: 0.98457 
+('10.94.89.109', 2),0.49462 Informacion del evento: 1.01560 
+Entropia: 0.999917 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50526 Informacion del evento: 0.98489 
+('10.94.89.109', 2),0.49474 Informacion del evento: 1.01527 
+Entropia: 0.999920 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50515 Informacion del evento: 0.98520 
+('10.94.89.109', 2),0.49485 Informacion del evento: 1.01495 
+Entropia: 0.999923 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50505 Informacion del evento: 0.98550 
+('10.94.89.109', 2),0.49495 Informacion del evento: 1.01465 
+Entropia: 0.999926 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50495 Informacion del evento: 0.98579 
+('10.94.89.109', 2),0.49505 Informacion del evento: 1.01436 
+Entropia: 0.999929 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50485 Informacion del evento: 0.98606 
+('10.94.89.109', 2),0.49515 Informacion del evento: 1.01408 
+Entropia: 0.999932 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50476 Informacion del evento: 0.98633 
+('10.94.89.109', 2),0.49524 Informacion del evento: 1.01381 
+Entropia: 0.999935 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50467 Informacion del evento: 0.98658 
+('10.94.89.109', 2),0.49533 Informacion del evento: 1.01355 
+Entropia: 0.999937 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50459 Informacion del evento: 0.98682 
+('10.94.89.109', 2),0.49541 Informacion del evento: 1.01330 
+Entropia: 0.999939 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50450 Informacion del evento: 0.98706 
+('10.94.89.109', 2),0.49550 Informacion del evento: 1.01306 
+Entropia: 0.999941 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50442 Informacion del evento: 0.98729 
+('10.94.89.109', 2),0.49558 Informacion del evento: 1.01282 
+Entropia: 0.999944 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50435 Informacion del evento: 0.98751 
+('10.94.89.109', 2),0.49565 Informacion del evento: 1.01260 
+Entropia: 0.999945 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50427 Informacion del evento: 0.98772 
+('10.94.89.109', 2),0.49573 Informacion del evento: 1.01238 
+Entropia: 0.999947 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50420 Informacion del evento: 0.98793 
+('10.94.89.109', 2),0.49580 Informacion del evento: 1.01217 
+Entropia: 0.999949 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.50413 Informacion del evento: 0.98813 
+('10.94.89.109', 2),0.49587 Informacion del evento: 1.01197 
+Entropia: 0.999951 
+('10.94.64.1', 1),0.50000 Informacion del evento: 1.00000 
+('10.94.89.109', 2),0.50000 Informacion del evento: 1.00000 
+Entropia: 1.000000 
+('10.94.64.1', 1),0.49593 Informacion del evento: 1.01178 
+('10.94.89.109', 2),0.49593 Informacion del evento: 1.01178 
+('10.94.89.109', 1),0.00813 Informacion del evento: 6.94251 
+Entropia: 1.059995 
+('10.94.64.1', 1),0.49194 Informacion del evento: 1.02346 
+('10.94.89.109', 2),0.49194 Informacion del evento: 1.02346 
+('10.94.89.109', 1),0.01613 Informacion del evento: 5.95420 
+Entropia: 1.102987 
+('10.94.64.1', 1),0.49600 Informacion del evento: 1.01159 
+('10.94.89.109', 2),0.48800 Informacion del evento: 1.03505 
+('10.94.89.109', 1),0.01600 Informacion del evento: 5.96578 
+Entropia: 1.102303 
+('10.94.64.1', 1),0.49206 Informacion del evento: 1.02308 
+('10.94.89.109', 2),0.49206 Informacion del evento: 1.02308 
+('10.94.89.109', 1),0.01587 Informacion del evento: 5.97728 
+Entropia: 1.101722 
+('10.94.64.1', 1),0.48819 Informacion del evento: 1.03449 
+('10.94.89.109', 2),0.48819 Informacion del evento: 1.03449 
+('10.94.89.109', 1),0.02362 Informacion del evento: 5.40372 
+Entropia: 1.137699 
+('10.94.64.1', 1),0.48438 Informacion del evento: 1.04580 
+('10.94.89.109', 2),0.48438 Informacion del evento: 1.04580 
+('10.94.89.109', 1),0.02344 Informacion del evento: 5.41504 
+('10.94.91.161', 2),0.00781 Informacion del evento: 7.00000 
+Entropia: 1.194725 
+('10.94.64.1', 1),0.48837 Informacion del evento: 1.03395 
+('10.94.89.109', 2),0.48062 Informacion del evento: 1.05703 
+('10.94.89.109', 1),0.02326 Informacion del evento: 5.42626 
+('10.94.91.161', 2),0.00775 Informacion del evento: 7.01123 
+Entropia: 1.193524 
+('10.94.64.1', 1),0.48462 Informacion del evento: 1.04509 
+('10.94.89.109', 2),0.48462 Informacion del evento: 1.04509 
+('10.94.89.109', 1),0.02308 Informacion del evento: 5.43741 
+('10.94.91.161', 2),0.00769 Informacion del evento: 7.02237 
+Entropia: 1.192428 
+('10.94.64.1', 1),0.48855 Informacion del evento: 1.03342 
+('10.94.89.109', 2),0.48092 Informacion del evento: 1.05614 
+('10.94.89.109', 1),0.02290 Informacion del evento: 5.44846 
+('10.94.91.161', 2),0.00763 Informacion del evento: 7.03342 
+Entropia: 1.191259 
+('10.94.64.1', 1),0.48485 Informacion del evento: 1.04439 
+('10.94.89.109', 2),0.48485 Informacion del evento: 1.04439 
+('10.94.89.109', 1),0.02273 Informacion del evento: 5.45943 
+('10.94.91.161', 2),0.00758 Informacion del evento: 7.04439 
+Entropia: 1.190190 
+('10.94.64.1', 1),0.48872 Informacion del evento: 1.03291 
+('10.94.89.109', 2),0.48120 Informacion del evento: 1.05528 
+('10.94.89.109', 1),0.02256 Informacion del evento: 5.47032 
+('10.94.91.161', 2),0.00752 Informacion del evento: 7.05528 
+Entropia: 1.189051 
+('10.94.64.1', 1),0.48507 Informacion del evento: 1.04372 
+('10.94.89.109', 2),0.48507 Informacion del evento: 1.04372 
+('10.94.89.109', 1),0.02239 Informacion del evento: 5.48113 
+('10.94.91.161', 2),0.00746 Informacion del evento: 7.06609 
+Entropia: 1.188009 
+('10.94.64.1', 1),0.48889 Informacion del evento: 1.03242 
+('10.94.89.109', 2),0.48148 Informacion del evento: 1.05445 
+('10.94.89.109', 1),0.02222 Informacion del evento: 5.49185 
+('10.94.91.161', 2),0.00741 Informacion del evento: 7.07682 
+Entropia: 1.186899 
+('10.94.64.1', 1),0.48529 Informacion del evento: 1.04307 
+('10.94.89.109', 2),0.48529 Informacion del evento: 1.04307 
+('10.94.89.109', 1),0.02206 Informacion del evento: 5.50250 
+('10.94.91.161', 2),0.00735 Informacion del evento: 7.08746 
+Entropia: 1.185883 
+('10.94.64.1', 1),0.48175 Informacion del evento: 1.05364 
+('10.94.89.109', 2),0.48175 Informacion del evento: 1.05364 
+('10.94.89.109', 1),0.02920 Informacion del evento: 5.09803 
+('10.94.91.161', 2),0.00730 Informacion del evento: 7.09803 
+Entropia: 1.215842 
+('10.94.64.1', 1),0.47826 Informacion del evento: 1.06413 
+('10.94.89.109', 2),0.47826 Informacion del evento: 1.06413 
+('10.94.89.109', 1),0.02899 Informacion del evento: 5.10852 
+('10.94.91.161', 2),0.00725 Informacion del evento: 7.10852 
+('10.94.64.1', 2),0.00725 Informacion del evento: 7.10852 
+Entropia: 1.268959 
+('10.94.64.1', 1),0.47482 Informacion del evento: 1.07455 
+('10.94.89.109', 2),0.47482 Informacion del evento: 1.07455 
+('10.94.89.109', 1),0.03597 Informacion del evento: 4.79701 
+('10.94.91.161', 2),0.00719 Informacion del evento: 7.11894 
+('10.94.64.1', 2),0.00719 Informacion del evento: 7.11894 
+Entropia: 1.295418 
+('10.94.64.1', 1),0.47143 Informacion del evento: 1.08489 
+('10.94.89.109', 2),0.47143 Informacion del evento: 1.08489 
+('10.94.89.109', 1),0.03571 Informacion del evento: 4.80735 
+('10.94.91.161', 2),0.01429 Informacion del evento: 6.12928 
+('10.94.64.1', 2),0.00714 Informacion del evento: 7.12928 
+Entropia: 1.333071 
+('10.94.64.1', 1),0.47518 Informacion del evento: 1.07346 
+('10.94.89.109', 2),0.46809 Informacion del evento: 1.09516 
+('10.94.89.109', 1),0.03546 Informacion del evento: 4.81762 
+('10.94.91.161', 2),0.01418 Informacion del evento: 6.13955 
+('10.94.64.1', 2),0.00709 Informacion del evento: 7.13955 
+Entropia: 1.331270 
+('10.94.64.1', 1),0.47183 Informacion del evento: 1.08366 
+('10.94.89.109', 2),0.47183 Informacion del evento: 1.08366 
+('10.94.89.109', 1),0.03521 Informacion del evento: 4.82782 
+('10.94.91.161', 2),0.01408 Informacion del evento: 6.14975 
+('10.94.64.1', 2),0.00704 Informacion del evento: 7.14975 
+Entropia: 1.329567 
+('10.94.64.1', 1),0.46853 Informacion del evento: 1.09378 
+('10.94.89.109', 2),0.46853 Informacion del evento: 1.09378 
+('10.94.89.109', 1),0.04196 Informacion del evento: 4.57491 
+('10.94.91.161', 2),0.01399 Informacion del evento: 6.15987 
+('10.94.64.1', 2),0.00699 Informacion del evento: 7.15987 
+Entropia: 1.353118 
+('10.94.64.1', 1),0.46528 Informacion del evento: 1.10384 
+('10.94.89.109', 2),0.46528 Informacion del evento: 1.10384 
+('10.94.89.109', 1),0.04167 Informacion del evento: 4.58496 
+('10.94.91.161', 2),0.01389 Informacion del evento: 6.16993 
+('10.94.64.1', 2),0.01389 Informacion del evento: 6.16993 
+Entropia: 1.389607 
+('10.94.64.1', 1),0.46207 Informacion del evento: 1.11382 
+('10.94.89.109', 2),0.46207 Informacion del evento: 1.11382 
+('10.94.89.109', 1),0.04828 Informacion del evento: 4.37255 
+('10.94.91.161', 2),0.01379 Informacion del evento: 6.17991 
+('10.94.64.1', 2),0.01379 Informacion del evento: 6.17991 
+Entropia: 1.410892 
+('10.94.64.1', 1),0.45890 Informacion del evento: 1.12374 
+('10.94.89.109', 2),0.45890 Informacion del evento: 1.12374 
+('10.94.89.109', 1),0.04795 Informacion del evento: 4.38247 
+('10.94.91.161', 2),0.02055 Informacion del evento: 5.60486 
+('10.94.64.1', 2),0.01370 Informacion del evento: 6.18982 
+Entropia: 1.441452 
+('10.94.64.1', 1),0.46259 Informacion del evento: 1.11221 
+('10.94.89.109', 2),0.45578 Informacion del evento: 1.13358 
+('10.94.89.109', 1),0.04762 Informacion del evento: 4.39232 
+('10.94.91.161', 2),0.02041 Informacion del evento: 5.61471 
+('10.94.64.1', 2),0.01361 Informacion del evento: 6.19967 
+Entropia: 1.439252 
+('10.94.64.1', 1),0.45946 Informacion del evento: 1.12199 
+('10.94.89.109', 2),0.45946 Informacion del evento: 1.12199 
+('10.94.89.109', 1),0.04730 Informacion del evento: 4.40210 
+('10.94.91.161', 2),0.02027 Informacion del evento: 5.62449 
+('10.94.64.1', 2),0.01351 Informacion del evento: 6.20945 
+Entropia: 1.437147 
+('10.94.64.1', 1),0.46309 Informacion del evento: 1.11064 
+('10.94.89.109', 2),0.45638 Informacion del evento: 1.13171 
+('10.94.89.109', 1),0.04698 Informacion del evento: 4.41181 
+('10.94.91.161', 2),0.02013 Informacion del evento: 5.63421 
+('10.94.64.1', 2),0.01342 Informacion del evento: 6.21917 
+Entropia: 1.434994 
+('10.94.64.1', 1),0.46000 Informacion del evento: 1.12029 
+('10.94.89.109', 2),0.46000 Informacion del evento: 1.12029 
+('10.94.89.109', 1),0.04667 Informacion del evento: 4.42146 
+('10.94.91.161', 2),0.02000 Informacion del evento: 5.64386 
+('10.94.64.1', 2),0.01333 Informacion del evento: 6.22882 
+Entropia: 1.432934 
+('10.94.64.1', 1),0.45695 Informacion del evento: 1.12988 
+('10.94.89.109', 2),0.45695 Informacion del evento: 1.12988 
+('10.94.89.109', 1),0.05298 Informacion del evento: 4.23840 
+('10.94.91.161', 2),0.01987 Informacion del evento: 5.65344 
+('10.94.64.1', 2),0.01325 Informacion del evento: 6.23840 
+Entropia: 1.452105 
+('10.94.64.1', 1),0.45395 Informacion del evento: 1.13940 
+('10.94.89.109', 2),0.45395 Informacion del evento: 1.13940 
+('10.94.89.109', 1),0.05263 Informacion del evento: 4.24793 
+('10.94.91.161', 2),0.01974 Informacion del evento: 5.66297 
+('10.94.64.1', 2),0.01974 Informacion del evento: 5.66297 
+Entropia: 1.481571 
+('10.94.64.1', 1),0.45098 Informacion del evento: 1.14886 
+('10.94.89.109', 2),0.45098 Informacion del evento: 1.14886 
+('10.94.89.109', 1),0.05882 Informacion del evento: 4.08746 
+('10.94.91.161', 2),0.01961 Informacion del evento: 5.67243 
+('10.94.64.1', 2),0.01961 Informacion del evento: 5.67243 
+Entropia: 1.499117 
+('10.94.64.1', 1),0.44805 Informacion del evento: 1.15826 
+('10.94.89.109', 2),0.44805 Informacion del evento: 1.15826 
+('10.94.89.109', 1),0.05844 Informacion del evento: 4.09686 
+('10.94.91.161', 2),0.02597 Informacion del evento: 5.26679 
+('10.94.64.1', 2),0.01948 Informacion del evento: 5.68182 
+Entropia: 1.524835 
+('10.94.64.1', 1),0.45161 Informacion del evento: 1.14684 
+('10.94.89.109', 2),0.44516 Informacion del evento: 1.16760 
+('10.94.89.109', 1),0.05806 Informacion del evento: 4.10620 
+('10.94.91.161', 2),0.02581 Informacion del evento: 5.27612 
+('10.94.64.1', 2),0.01935 Informacion del evento: 5.69116 
+Entropia: 1.522433 
+('10.94.64.1', 1),0.44872 Informacion del evento: 1.15612 
+('10.94.89.109', 2),0.44872 Informacion del evento: 1.15612 
+('10.94.89.109', 1),0.05769 Informacion del evento: 4.11548 
+('10.94.91.161', 2),0.02564 Informacion del evento: 5.28540 
+('10.94.64.1', 2),0.01923 Informacion del evento: 5.70044 
+Entropia: 1.520121 
+('10.94.64.1', 1),0.45223 Informacion del evento: 1.14487 
+('10.94.89.109', 2),0.44586 Informacion del evento: 1.16534 
+('10.94.89.109', 1),0.05732 Informacion del evento: 4.12470 
+('10.94.91.161', 2),0.02548 Informacion del evento: 5.29462 
+('10.94.64.1', 2),0.01911 Informacion del evento: 5.70966 
+Entropia: 1.517767 
+('10.94.64.1', 1),0.44937 Informacion del evento: 1.15403 
+('10.94.89.109', 2),0.44937 Informacion del evento: 1.15403 
+('10.94.89.109', 1),0.05696 Informacion del evento: 4.13386 
+('10.94.91.161', 2),0.02532 Informacion del evento: 5.30378 
+('10.94.64.1', 2),0.01899 Informacion del evento: 5.71882 
+Entropia: 1.515500 
+('10.94.64.1', 1),0.45283 Informacion del evento: 1.14296 
+('10.94.89.109', 2),0.44654 Informacion del evento: 1.16314 
+('10.94.89.109', 1),0.05660 Informacion del evento: 4.14296 
+('10.94.91.161', 2),0.02516 Informacion del evento: 5.31288 
+('10.94.64.1', 2),0.01887 Informacion del evento: 5.72792 
+Entropia: 1.513192 
+('10.94.64.1', 1),0.45000 Informacion del evento: 1.15200 
+('10.94.89.109', 2),0.45000 Informacion del evento: 1.15200 
+('10.94.89.109', 1),0.05625 Informacion del evento: 4.15200 
+('10.94.91.161', 2),0.02500 Informacion del evento: 5.32193 
+('10.94.64.1', 2),0.01875 Informacion del evento: 5.73697 
+Entropia: 1.510969 
+('10.94.64.1', 1),0.45342 Informacion del evento: 1.14109 
+('10.94.89.109', 2),0.44720 Informacion del evento: 1.16099 
+('10.94.89.109', 1),0.05590 Informacion del evento: 4.16099 
+('10.94.91.161', 2),0.02484 Informacion del evento: 5.33092 
+('10.94.64.1', 2),0.01863 Informacion del evento: 5.74595 
+Entropia: 1.508706 
+('10.94.64.1', 1),0.45062 Informacion del evento: 1.15003 
+('10.94.89.109', 2),0.45062 Informacion del evento: 1.15003 
+('10.94.89.109', 1),0.05556 Informacion del evento: 4.16993 
+('10.94.91.161', 2),0.02469 Informacion del evento: 5.33985 
+('10.94.64.1', 2),0.01852 Informacion del evento: 5.75489 
+Entropia: 1.506525 
+('10.94.64.1', 1),0.44785 Informacion del evento: 1.15890 
+('10.94.89.109', 2),0.44785 Informacion del evento: 1.15890 
+('10.94.89.109', 1),0.06135 Informacion del evento: 4.02680 
+('10.94.91.161', 2),0.02454 Informacion del evento: 5.34873 
+('10.94.64.1', 2),0.01840 Informacion del evento: 5.76377 
+Entropia: 1.522418 
+('10.94.64.1', 1),0.44512 Informacion del evento: 1.16773 
+('10.94.89.109', 2),0.44512 Informacion del evento: 1.16773 
+('10.94.89.109', 1),0.06098 Informacion del evento: 4.03562 
+('10.94.91.161', 2),0.02439 Informacion del evento: 5.35755 
+('10.94.64.1', 2),0.01829 Informacion del evento: 5.77259 
+('10.94.66.159', 2),0.00610 Informacion del evento: 7.35755 
+Entropia: 1.566768 
+('10.94.64.1', 1),0.44848 Informacion del evento: 1.15687 
+('10.94.89.109', 2),0.44242 Informacion del evento: 1.17650 
+('10.94.89.109', 1),0.06061 Informacion del evento: 4.04439 
+('10.94.91.161', 2),0.02424 Informacion del evento: 5.36632 
+('10.94.64.1', 2),0.01818 Informacion del evento: 5.78136 
+('10.94.66.159', 2),0.00606 Informacion del evento: 7.36632 
+Entropia: 1.564317 
+('10.94.64.1', 1),0.44578 Informacion del evento: 1.16559 
+('10.94.89.109', 2),0.44578 Informacion del evento: 1.16559 
+('10.94.89.109', 1),0.06024 Informacion del evento: 4.05311 
+('10.94.91.161', 2),0.02410 Informacion del evento: 5.37504 
+('10.94.64.1', 2),0.01807 Informacion del evento: 5.79008 
+('10.94.66.159', 2),0.00602 Informacion del evento: 7.37504 
+Entropia: 1.561947 
+('10.94.64.1', 1),0.44910 Informacion del evento: 1.15489 
+('10.94.89.109', 2),0.44311 Informacion del evento: 1.17425 
+('10.94.89.109', 1),0.05988 Informacion del evento: 4.06178 
+('10.94.91.161', 2),0.02395 Informacion del evento: 5.38370 
+('10.94.64.1', 2),0.01796 Informacion del evento: 5.79874 
+('10.94.66.159', 2),0.00599 Informacion del evento: 7.38370 
+Entropia: 1.559542 
+('10.94.64.1', 1),0.44643 Informacion del evento: 1.16350 
+('10.94.89.109', 2),0.44643 Informacion del evento: 1.16350 
+('10.94.89.109', 1),0.05952 Informacion del evento: 4.07039 
+('10.94.91.161', 2),0.02381 Informacion del evento: 5.39232 
+('10.94.64.1', 2),0.01786 Informacion del evento: 5.80735 
+('10.94.66.159', 2),0.00595 Informacion del evento: 7.39232 
+Entropia: 1.557216 
+('10.94.64.1', 1),0.44970 Informacion del evento: 1.15295 
+('10.94.89.109', 2),0.44379 Informacion del evento: 1.17206 
+('10.94.89.109', 1),0.05917 Informacion del evento: 4.07895 
+('10.94.91.161', 2),0.02367 Informacion del evento: 5.40088 
+('10.94.64.1', 2),0.01775 Informacion del evento: 5.81592 
+('10.94.66.159', 2),0.00592 Informacion del evento: 7.40088 
+Entropia: 1.554855 
+('10.94.64.1', 1),0.44706 Informacion del evento: 1.16146 
+('10.94.89.109', 2),0.44706 Informacion del evento: 1.16146 
+('10.94.89.109', 1),0.05882 Informacion del evento: 4.08746 
+('10.94.91.161', 2),0.02353 Informacion del evento: 5.40939 
+('10.94.64.1', 2),0.01765 Informacion del evento: 5.82443 
+('10.94.66.159', 2),0.00588 Informacion del evento: 7.40939 
+Entropia: 1.552572 
+('10.94.64.1', 1),0.45029 Informacion del evento: 1.15107 
+('10.94.89.109', 2),0.44444 Informacion del evento: 1.16993 
+('10.94.89.109', 1),0.05848 Informacion del evento: 4.09592 
+('10.94.91.161', 2),0.02339 Informacion del evento: 5.41785 
+('10.94.64.1', 2),0.01754 Informacion del evento: 5.83289 
+('10.94.66.159', 2),0.00585 Informacion del evento: 7.41785 
+Entropia: 1.550255 
+('10.94.64.1', 1),0.44767 Informacion del evento: 1.15948 
+('10.94.89.109', 2),0.44767 Informacion del evento: 1.15948 
+('10.94.89.109', 1),0.05814 Informacion del evento: 4.10434 
+('10.94.91.161', 2),0.02326 Informacion del evento: 5.42626 
+('10.94.64.1', 2),0.01744 Informacion del evento: 5.84130 
+('10.94.66.159', 2),0.00581 Informacion del evento: 7.42626 
+Entropia: 1.548013 
+('10.94.64.1', 1),0.45087 Informacion del evento: 1.14923 
+('10.94.89.109', 2),0.44509 Informacion del evento: 1.16784 
+('10.94.89.109', 1),0.05780 Informacion del evento: 4.11270 
+('10.94.91.161', 2),0.02312 Informacion del evento: 5.43463 
+('10.94.64.1', 2),0.01734 Informacion del evento: 5.84967 
+('10.94.66.159', 2),0.00578 Informacion del evento: 7.43463 
+Entropia: 1.545737 
+('10.94.64.1', 1),0.44828 Informacion del evento: 1.15754 
+('10.94.89.109', 2),0.44828 Informacion del evento: 1.15754 
+('10.94.89.109', 1),0.05747 Informacion del evento: 4.12102 
+('10.94.91.161', 2),0.02299 Informacion del evento: 5.44294 
+('10.94.64.1', 2),0.01724 Informacion del evento: 5.85798 
+('10.94.66.159', 2),0.00575 Informacion del evento: 7.44294 
+Entropia: 1.543536 
+('10.94.64.1', 1),0.45143 Informacion del evento: 1.14743 
+('10.94.89.109', 2),0.44571 Informacion del evento: 1.16581 
+('10.94.89.109', 1),0.05714 Informacion del evento: 4.12928 
+('10.94.91.161', 2),0.02286 Informacion del evento: 5.45121 
+('10.94.64.1', 2),0.01714 Informacion del evento: 5.86625 
+('10.94.66.159', 2),0.00571 Informacion del evento: 7.45121 
+Entropia: 1.541301 
+('10.94.64.1', 1),0.44886 Informacion del evento: 1.15565 
+('10.94.89.109', 2),0.44886 Informacion del evento: 1.15565 
+('10.94.89.109', 1),0.05682 Informacion del evento: 4.13750 
+('10.94.91.161', 2),0.02273 Informacion del evento: 5.45943 
+('10.94.64.1', 2),0.01705 Informacion del evento: 5.87447 
+('10.94.66.159', 2),0.00568 Informacion del evento: 7.45943 
+Entropia: 1.539139 
+('10.94.64.1', 1),0.45198 Informacion del evento: 1.14568 
+('10.94.89.109', 2),0.44633 Informacion del evento: 1.16382 
+('10.94.89.109', 1),0.05650 Informacion del evento: 4.14568 
+('10.94.91.161', 2),0.02260 Informacion del evento: 5.46761 
+('10.94.64.1', 2),0.01695 Informacion del evento: 5.88264 
+('10.94.66.159', 2),0.00565 Informacion del evento: 7.46761 
+Entropia: 1.536944 
+('10.94.64.1', 1),0.44944 Informacion del evento: 1.15381 
+('10.94.89.109', 2),0.44944 Informacion del evento: 1.15381 
+('10.94.89.109', 1),0.05618 Informacion del evento: 4.15381 
+('10.94.91.161', 2),0.02247 Informacion del evento: 5.47573 
+('10.94.64.1', 2),0.01685 Informacion del evento: 5.89077 
+('10.94.66.159', 2),0.00562 Informacion del evento: 7.47573 
+Entropia: 1.534820 
