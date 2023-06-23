@@ -12,21 +12,25 @@ def calcularEntropia(simbolos, N):
     suma = 0
     prob = 0
     final_entropy = {}
+    final_information = {}
     for d,k in simbolos:
         prob = k/N
         informacion_evento = -math.log(prob, 2)
         comp_entropia = prob * informacion_evento
         suma += comp_entropia
         
-        print("Simbolo: %s, \n Comp_Entropia :%.5f " % (d,comp_entropia)) #mostrar simb + comp
-        final_entropy[d] = comp_entropia
+        #print("Simbolo: %s, \n Comp_Entropia :%.5f " % (d,comp_entropia)) #mostrar simb + comp
+        
+        #final_entropy[d] = comp_entropia
+        final_information[d] = informacion_evento
         
         #ouput_file.write("Simbolo: %s, \n Comp_Entropia :%.5f " % (d,comp_entropia))
         #ouput_file.write("%s,%.5f " % (d,k/N))
         
         #print(" Informacion del evento: %.5f \n" % informacion_evento)
         #ouput_file.write(" Informacion del evento: %.5f \n" % informacion_evento)
-    ouput_file.write(str(list(final_entropy.items())) + "\n")
+    
+    ouput_file.write(str(list(final_information.items())) + "\n")
     return suma
 
 def mostrar_fuente(S):
