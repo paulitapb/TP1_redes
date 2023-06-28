@@ -1,8 +1,8 @@
 from scapy.all import *
 
-pcap_path = "wifiUbaLabo3/red_wifi_UBA_Labo3.pcapng" 
+pcap_path = "wifiUbaLabo3/Paquetes.pcapng" 
 #pcap_path = input("enter file to sniff:")
-ouput_file = open(pcap_path.split('/')[0] + "fuenteEj2_sim2" + pcap_path.split('/')[1].split('.')[0] + ".txt", "w")
+ouput_file = open("wifiUbaLabo3/Simbolo2.txt", "w")
 
 pcap_file = rdpcap(pcap_path)
 
@@ -19,7 +19,7 @@ def calcularEntropia(simbolos, N):
         comp_entropia = prob * informacion_evento
         suma += comp_entropia
         
-        #print("Simbolo: %s, \n Comp_Entropia :%.5f " % (d,comp_entropia)) #mostrar simb + comp
+        print("Simbolo: %s, \n Info_Evento :%.5f " % (d,informacion_evento))
         
         #final_entropy[d] = comp_entropia
         final_information[d] = informacion_evento
@@ -39,7 +39,7 @@ def mostrar_fuente(S):
     simbolos = sorted(S.items(), key=lambda x: -x[1])
     
     entropia = calcularEntropia(simbolos, N)
-    #ouput_file.write("Entropia: %f \n"% entropia)
+    ouput_file.write("Entropia: %f \n"% entropia)
     print("Entropia: %f \n"% entropia)
     print("--------------------------")
 
@@ -50,7 +50,7 @@ def callback(pkt):
         dire = "BROADCAST" if pkt[Ether].dst=="ff:ff:ff:ff:ff:ff" else "UNICAST"
         proto = pkt[Ether].type # El campo type del frame tiene el protocolo
 
-        if proto == 2054 and pkt[ARP].op == 2:
+        if proto == 2054 and pkt[ARP].op == 1:
             s_i = (pkt[ARP].psrc) # Aca se define el simbolo de la fuente
             
             if s_i not in S2:
